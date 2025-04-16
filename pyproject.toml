@@ -1,6 +1,6 @@
 [project]
 name = "peppr"
-requires-python = ">=3.11"
+requires-python = "^3.10"
 description = "It's a package for evaluation of predicted poses, right?"
 readme = "README.rst"
 authors = [{name = "The pepp'r contributors"}]
